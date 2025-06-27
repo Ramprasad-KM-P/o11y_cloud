@@ -1,6 +1,6 @@
 # Delete Users
 
-1. Replace <Session User API Access Token> with a valid token
+1. Replace "Session User API Access Token" in both the scripts with a valid token
 2. Run - python3 get_email_member_id_o11y.py
 3. Copy the output to member_ids.txt and retain only the member_ids to be deleted
 4. Run - python3 delete_member_id_o11y.py
